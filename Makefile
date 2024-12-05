@@ -8,7 +8,7 @@ endif
 #TODO: Set the path to the root-config, pythia8-config and fastjet-config executables
 #Not needed if the executables are in the PATH
 
-ROOT_CONFIG = $(HOME)/heplibs/root/root/bin/root-config
+ROOT_CONFIG = $(HOME)/heplibs/root/bin/root-config
 PYTHIA_CONFIG = $(HOME)/heplibs/pythia8310/bin/pythia8-config
 FASTJET_CONFIG = $(HOME)/heplibs/fastjet-install/bin/fastjet-config
 
